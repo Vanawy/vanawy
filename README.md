@@ -26,4 +26,4 @@ My name is Ilya Sakharchuk. I'm web-developer from Brest, Belarus.
 - Script that adds "Search Lyrics" button to songs on VK [GitHub](https://github.com/Vanawy/vk-song-lyrics), [Install (via Tampermonkey/Greasemonkey)](https://github.com/Vanawy/vk-song-lyrics/blob/master/vk-song-lyrics.user.js?raw=true)
 - Script that adds "Search Lyrics" button to songs on Spotify Web Player [GitHub](https://github.com/Vanawy/spotify-song-lyrics), [Install (via Tampermonkey/Greasemonkey)](https://github.com/Vanawy/spotify-song-lyrics/raw/main/spotify-song-lyrics.user.js)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanawy&layout=compact)](https://github.com/vanawy/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanawy&layout=compact)](https://github.com/vanawy) 
