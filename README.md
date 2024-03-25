@@ -20,6 +20,6 @@ My name is Ilya Sakharchuk. I'm web-developer from Brest, Belarus.
 <br clear="left">
 
 ### My projects 
-- Tm Run History - plugin for Trackmania 2020 [GitHub](https://github.com/Vanawy/tm-run-history)
+- Tm Run History - plugin for Trackmania 2020 [GitHub](https://github.com/Vanawy/tm-run-history) [Openplanet](https://openplanet.dev/plugin/runhistory)
 - Armed Companions - game for GDevelop Game Jam #2 [submission page](https://itch.io/jam/gdevelop-game-jam-2/rate/1649894)
 - Discord bot who message to channel when stream of your chosen game with `drops enabled` is live! [GitHub](https://github.com/Vanawy/drop-monitor-discord-bot)
