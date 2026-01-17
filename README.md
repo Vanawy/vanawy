@@ -19,7 +19,7 @@ My name is Ilya Sakharchuk. I'm web-developer from Brest, Belarus.
 *January 2021 - March 2025 (4y3m)*
 <br clear="left">
 
-<img src="vizor-logo.png" width="64" align="left"> **Java Developer** at [Vizro Games](https://vizor-games.com/) (Java)
+<img src="vizor-logo.png" width="64" align="left"> **Java Developer** at [Vizor Games](https://vizor-games.com/) (Java)
 
 *April 2025 - Present (-)*
 <br clear="left">
