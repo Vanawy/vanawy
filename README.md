@@ -3,11 +3,6 @@
 <!--
 **Vanawy/vanawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-My name is Ilya Sakharchuk. I'm web-developer from Brest, Belarus.
-
-- 💼 I’m currently working as Back-End Developer 
-- 📫 How to reach me: use [Telegram](https://t.me/vanawy) or see other options on [vanawy.dev](https://www.vanawy.dev)
-
 ### Experience
 <img src="wide-web-logo.png" width="64" align="left"> **Back-end Developer** at [Wide-Web](https://wide-web.by) (PHP,Symfony,MySQL,JavaScript)
 
